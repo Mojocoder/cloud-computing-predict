@@ -93,7 +93,7 @@ def lambda_handler(event, context):
     # Replace recipient@example.com with a "To" address. If your account
     # is still in the sandbox, this address must be verified.
     # --- Insert your code here ---
-    RECIPIENT = 'info.iceprojects1@gmail.com'
+    RECIPIENT = 'kevinreddyo@yahoo.com'
     # -----------------------------
 
     AWS_REGION = "eu-west-1"
